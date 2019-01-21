@@ -6,7 +6,7 @@ NUM_CLASSES = 7
 NUM_VAL_IMAGES = 600
 NUM_TEST_IMAGES = 600
 
-NUM_EPOCHS = 200
+NUM_EPOCHS = 10
 
 # define the path to the output training,validation,and testing HDF5 files
 TRAIN_HDF5 = "datasets/hdf5/train.hdf5"
